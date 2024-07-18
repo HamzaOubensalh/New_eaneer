@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Libre+Franklin:ital,wght@0,100..900;1,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+.Main-About-Us{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.Main-About-Style{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Main-About-Us .Second-About-Us{
+    width: 62vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 114px;
+}
+.Second-About-Us p{
+    margin-bottom: 17px;
+}
+.Second-About-Us p:nth-child(1){
+    font-family: Source Code Pro;
+    font-size: 14px;
+    font-weight: bold;
+    color: #CCD0CF;
+}
+.Second-About-Us p:nth-child(2){
+    font-family: Inter;
+    font-size: 28px;
+    font-weight: 28px;
+    text-align: center;
+}
+.Second-About-Us p:nth-child(3){
+    font-family: Source Code Pro;
+    font-size: 18px;
+    font-weight: bold;
+    color: #CCD0CF;
+}
+.Main-About-Us .Image-About-Us{
+    width: 100%;
+    height: 562px;
+    margin-bottom: 158px;
+}
+.Vision-Div{
+    width: 68vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 108px;
+    margin-bottom: 230px;
+}
+.Vision-Div .first-div{
+    width: 33vw;
+}
+.Vision-Div .second-div{
+    width: 32vw;
+    height: 398px;
+}
+.Mission-Div{
+    width: 68vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 108px;
+    
+}
